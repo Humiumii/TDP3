@@ -2,7 +2,11 @@
 
 **Asignatura:** Tendencias de Inteligencia Artificial Aplicada
 **Unidad:** 1 - IA, tipos, diseños y aplicaciones
-**Estudiante:**
+**Estudiante / Equipo:**
+- Ignacio Riquelme Vidal
+- Jeremy Zavala Gonzalez
+- Valentina Cisternas Ocaranza
+- Tomas Valenzuela
 **Fecha:**
 
 ---
