@@ -5,7 +5,7 @@
 **Estudiante / Equipo:**
 - Ignacio Riquelme Vidal
 - Jeremy Zavala Gonzalez
-- Valentina Cisternas Ocaranza
+- Francisco Gonzalez Guerra
 - Tomas Valenzuela
 **Fecha:**
 
