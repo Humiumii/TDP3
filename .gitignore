@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Data
+data/raw/
+data/processed/
+
+# Models (best_model.pth is tracked for deploy)
+models/*.pt
+models/*.h5
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
